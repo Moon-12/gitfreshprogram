@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is start of new document Right or not ?
 =======
 This is start of new document Right 2 or not ?
 >>>>>>> f612ddef66e51a4e69ec49ca88789b1627807584
+=======
+This is start of new document right 2 ?
+
+whatsup
+>>>>>>> 22efa1ddbef7592bc98b29b60b66a37389c81810
