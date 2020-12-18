@@ -9,5 +9,4 @@ fs.createReadStream("data1.csv")
     console.log(results);
     console.log("hello");
     console.log("how");
-    console.log("hello1");
   });
