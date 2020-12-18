@@ -8,5 +8,4 @@ fs.createReadStream("data1.csv")
   .on("end", () => {
     console.log(results);
     console.log("hello");
-    console.log("how");
   });
